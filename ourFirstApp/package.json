@@ -1,0 +1,8 @@
+{
+    "name": "our-first-nwjs-app",
+    "main": "index.html",
+    "window": {
+        "width": 800,
+        "height": 600
+    }
+}
